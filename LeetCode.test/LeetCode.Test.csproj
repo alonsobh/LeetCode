@@ -35,6 +35,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="dotMemory.Unit, Version=103.0.0.0, Culture=neutral, PublicKeyToken=1010a0d8d6380325, processorArchitecture=MSIL">
+      <HintPath>..\packages\JetBrains.dotMemoryUnit.2.3.20160517.113140\lib\dotMemory.Unit.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
   </ItemGroup>
   <Choose>
@@ -52,13 +56,19 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="AddTwoNumbersTest.cs" />
-    <Compile Include="TwoSumTest.cs" />
+    <Compile Include="2AddTwoNumbersTest.cs" />
+    <Compile Include="6ZigZagConversionTest.cs" />
+    <Compile Include="8MyAtoiTest.cs" />
+    <Compile Include="7ReverseIntegerTest.cs" />
+    <Compile Include="1TwoSumTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="LengthOfLongestSubstringTest.cs" />
-    <Compile Include="FindMedianSortedArraysTest.cs" />
-    <Compile Include="LongestPalindromeTest.cs" />
+    <Compile Include="3LengthOfLongestSubstringTest.cs" />
+    <Compile Include="4FindMedianSortedArraysTest.cs" />
+    <Compile Include="5LongestPalindromeTest.cs" />
     <Compile Include="ShortestPalindromeTest.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

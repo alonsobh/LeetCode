@@ -1,0 +1,7 @@
+C:\Users\alonso.bustos\Source\Repos\LeetCode\leetcode.test\bin\Debug\leetcode.test.dll
+C:\Users\alonso.bustos\Source\Repos\LeetCode\leetcode.test\bin\Debug\leetcode.test.pdb
+C:\Users\alonso.bustos\Source\Repos\LeetCode\leetcode.test\obj\Debug\leetcode.test.csprojResolveAssemblyReference.cache
+C:\Users\alonso.bustos\Source\Repos\LeetCode\leetcode.test\obj\Debug\leetcode.test.dll
+C:\Users\alonso.bustos\Source\Repos\LeetCode\leetcode.test\obj\Debug\leetcode.test.pdb
+C:\Users\alonso.bustos\Source\Repos\LeetCode\leetcode.test\bin\Debug\dotMemory.Unit.dll
+C:\Users\alonso.bustos\Source\Repos\LeetCode\leetcode.test\bin\Debug\dotMemory.Unit.xml
